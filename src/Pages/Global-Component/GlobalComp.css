@@ -1,0 +1,31 @@
+.container {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container button, .container button * {
+    margin-top: 20px;
+    padding: 5px;
+    text-decoration: none;
+    color: black;
+}
+
+
+.box-content {
+    border: 1px solid black;
+    padding: 30px;
+    text-align: center;
+}
+
+.box-title {
+    border : 1px solid black;
+    padding : 5px;
+}
+.core-content p {
+    margin: 0;
+    padding: 0;
+}
+
